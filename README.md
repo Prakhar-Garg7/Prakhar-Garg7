@@ -37,12 +37,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakhar-Garg7" alt="Prakhar-Garg7" /></a> </p>
 
-- 🔭 I’m currently working on **like reinforcement learning and deep learning models, Full stack web development projects**
+- 🔭 I’m currently working on **full stack web development projects**
 
-- 🌱 I’m currently learning **Spring Framework, React, reinforcement Learning and ML algorithms**
-
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1C5I-4lJ-hXL5bGQitZjyA2uk9fD-9f3W/view?usp=sharing)  
-- 💬 Ask me about **MERN, Java, AI/ML, Cloud**  
+- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1LObKk3ECNQYeLNahbgv_2LCsQdA1Ct42/view?usp=drive_link)  
+- 💬 Ask me about **MERN, Java, and DSA problems**  
 - ⚡ Fun fact: I love **competitive coding & hackathons!**  
 
 
