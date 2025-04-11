@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently working on **full stack web development projects**
 
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1LObKk3ECNQYeLNahbgv_2LCsQdA1Ct42/view?usp=drive_link)  
+- 📄 Check out my resume: [My Resume](https://drive.google.com/drive/folders/1JCoGvupl2qzB81NpYGgdZnrTpuUxROzP)  
 - 💬 Ask me about **MERN, Java, and DSA problems**  
 - ⚡ Fun fact: I love **competitive coding & hackathons!**  
 
